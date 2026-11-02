@@ -1,0 +1,13 @@
+{
+  "models": 603,
+  "sceneGLBs": 3,
+  "totalGLBs": 614,
+  "embeddedTextureAndBufferCheck": "passed",
+  "indexReferenceCheck": "passed",
+  "animationSamplerCheck": "passed",
+  "animationClipEntriesAcrossAllFiles": 1474,
+  "fullCharacters": 5,
+  "fullClipsPerCharacter": 171,
+  "liteCharacters": 5,
+  "liteClipsPerCharacter": 20
+}

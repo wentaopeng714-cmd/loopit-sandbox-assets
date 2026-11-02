@@ -1,0 +1,493 @@
+{
+  "id": "space-outpost",
+  "title": "Space Outpost",
+  "glb": "scenes/space-outpost.glb",
+  "groundY": 0,
+  "placements": [
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -6,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -5,
+        0,
+        1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -4,
+        0,
+        3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -3,
+        0,
+        5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -5,
+        0,
+        -1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -4,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -3,
+        0,
+        1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -2,
+        0,
+        3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -1,
+        0,
+        5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -4,
+        0,
+        -3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -3,
+        0,
+        -1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -2,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -1,
+        0,
+        1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        0,
+        0,
+        3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        1,
+        0,
+        5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -3,
+        0,
+        -5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -2,
+        0,
+        -3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -1,
+        0,
+        -1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        0,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        1,
+        0,
+        1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        2,
+        0,
+        3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        3,
+        0,
+        5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        -1,
+        0,
+        -5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        0,
+        0,
+        -3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        1,
+        0,
+        -1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        2,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        3,
+        0,
+        1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        4,
+        0,
+        3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        1,
+        0,
+        -5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        2,
+        0,
+        -3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        3,
+        0,
+        -1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        4,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        5,
+        0,
+        1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        3,
+        0,
+        -5.196152422706632
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        4,
+        0,
+        -3.4641016151377544
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        5,
+        0,
+        -1.7320508075688772
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/medieval/tiles/base/hex_grass.glb",
+      "position": [
+        6,
+        0,
+        0.0
+      ],
+      "scale": 1,
+      "rotationY": 0,
+      "alignment": "top"
+    },
+    {
+      "model": "models/space/basemodule_E.glb",
+      "position": [
+        -3,
+        0,
+        -2.2
+      ],
+      "scale": 1.9393938316786645,
+      "rotationY": 0.1,
+      "alignment": "ground"
+    },
+    {
+      "model": "models/space/basemodule_C.glb",
+      "position": [
+        2.5,
+        0,
+        -2.8
+      ],
+      "scale": 2.30000014565886,
+      "rotationY": -0.1,
+      "alignment": "ground"
+    },
+    {
+      "model": "models/space/solarpanel.glb",
+      "position": [
+        -3,
+        0,
+        2
+      ],
+      "scale": 2.4264071518576187,
+      "rotationY": 0.25,
+      "alignment": "ground"
+    },
+    {
+      "model": "models/space/solarpanel.glb",
+      "position": [
+        -1,
+        0,
+        2
+      ],
+      "scale": 2.4264071518576187,
+      "rotationY": 0.25,
+      "alignment": "ground"
+    },
+    {
+      "model": "models/space/cargo_A_stacked.glb",
+      "position": [
+        3.6,
+        0,
+        1.3
+      ],
+      "scale": 1.3718764139155823,
+      "rotationY": 0,
+      "alignment": "ground"
+    },
+    {
+      "model": "models/space/cargo_B.glb",
+      "position": [
+        2.5,
+        0,
+        2.6
+      ],
+      "scale": 1.538458773375295,
+      "rotationY": 0,
+      "alignment": "ground"
+    },
+    {
+      "model": "models/resources/Iron_Nuggets.glb",
+      "position": [
+        4,
+        0,
+        -0.6
+      ],
+      "scale": 1.0528457914310756,
+      "rotationY": 0,
+      "alignment": "ground"
+    }
+  ],
+  "note": "Static environment assembled from original CC0 assets. Character, collisions, weather, water movement and gameplay are separate runtime systems."
+}

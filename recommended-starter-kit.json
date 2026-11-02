@@ -1,0 +1,104 @@
+{
+  "title": "Forest Survival Starter",
+  "character": {
+    "file": "models/characters-lite/rogue-survival-lite.glb",
+    "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/characters-lite/rogue-survival-lite.glb",
+    "height": 1.8,
+    "clips": [
+      "Idle_A",
+      "Walking_A",
+      "Running_A",
+      "PickUp",
+      "Chopping",
+      "Pickaxing",
+      "Hammering",
+      "Digging",
+      "Sawing",
+      "Cheering"
+    ]
+  },
+  "scene": {
+    "file": "scenes/forest-camp.glb",
+    "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/scenes/forest-camp.glb"
+  },
+  "tools": {
+    "axe": {
+      "file": "models/tools/axe.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/tools/axe.glb",
+      "socket": "handslot.r"
+    },
+    "pickaxe": {
+      "file": "models/tools/pickaxe.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/tools/pickaxe.glb",
+      "socket": "handslot.r"
+    },
+    "hammer": {
+      "file": "models/tools/hammer.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/tools/hammer.glb",
+      "socket": "handslot.r"
+    },
+    "shovel": {
+      "file": "models/tools/shovel.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/tools/shovel.glb",
+      "socket": "handslot.r"
+    },
+    "saw": {
+      "file": "models/tools/saw.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/tools/saw.glb",
+      "socket": "handslot.r"
+    }
+  },
+  "resources": [
+    {
+      "file": "models/resources/Wood_Log_A.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Wood_Log_A.glb"
+    },
+    {
+      "file": "models/resources/Wood_Log_Stack.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Wood_Log_Stack.glb"
+    },
+    {
+      "file": "models/resources/Wood_Planks_Stack_Small.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Wood_Planks_Stack_Small.glb"
+    },
+    {
+      "file": "models/resources/Wood_Planks_Stack_Medium.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Wood_Planks_Stack_Medium.glb"
+    },
+    {
+      "file": "models/resources/Wood_Planks_Stack_Large.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Wood_Planks_Stack_Large.glb"
+    },
+    {
+      "file": "models/resources/Stone_Chunks_Small.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Stone_Chunks_Small.glb"
+    },
+    {
+      "file": "models/resources/Stone_Chunks_Large.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Stone_Chunks_Large.glb"
+    },
+    {
+      "file": "models/resources/Iron_Nuggets.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/resources/Iron_Nuggets.glb"
+    }
+  ],
+  "buildings": [
+    {
+      "file": "models/medieval/decoration/props/tent.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/medieval/decoration/props/tent.glb"
+    },
+    {
+      "file": "models/medieval/buildings/blue/building_home_A_blue.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/medieval/buildings/blue/building_home_A_blue.glb"
+    },
+    {
+      "file": "models/medieval/buildings/blue/building_home_B_blue.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/medieval/buildings/blue/building_home_B_blue.glb"
+    },
+    {
+      "file": "models/medieval/buildings/blue/building_blacksmith_blue.glb",
+      "url": "https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/models/medieval/buildings/blue/building_blacksmith_blue.glb"
+    }
+  ],
+  "note": "Asset recipe only; game rules, collision, resource depletion and upgrades are not embedded in these models."
+}

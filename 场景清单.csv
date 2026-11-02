@@ -1,0 +1,4 @@
+﻿场景,GLB文件,物件实例数,GitHub直链,备注
+Forest Camp,scenes/forest-camp.glb,58,https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/scenes/forest-camp.glb,静态环境；角色、碰撞和玩法单独实现
+Village Workshop,scenes/village-workshop.glb,56,https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/scenes/village-workshop.glb,静态环境；角色、碰撞和玩法单独实现
+Space Outpost,scenes/space-outpost.glb,44,https://raw.githubusercontent.com/wentaopeng714-cmd/loopit-sandbox-assets/v1.0.0/scenes/space-outpost.glb,静态环境；角色、碰撞和玩法单独实现
